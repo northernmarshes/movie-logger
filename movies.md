@@ -1500,3 +1500,4 @@
 |2020-06-16|Kona fer í stríð|Kobieta idzie na wojnę|2018|4|
 |2020-06-16|Shirley|Shirley|2020|3|
 |2026-07-28|風たちの午後|Afternoon Breezes|1980|5|
+|2026-08-02|普通サイズの怪人|Fantom Standardowego Rozmiaru|1986|7|
