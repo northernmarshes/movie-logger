@@ -1499,6 +1499,26 @@
 |2020-06-16|Duo luo tian shi|Upadłe anioły|1995|7|
 |2020-06-16|Kona fer í stríð|Kobieta idzie na wojnę|2018|4|
 |2020-06-16|Shirley|Shirley|2020|3|
+|2025-08-08|Paris,Texas|Paryż, Teksas|1984|7|
+|2025-08-18|Alien: Romulus|Obcy: Romulus|2024|5|
+|2025-09-21|花とアリス|Hana and Alice|2004|8|
+|2025-09-26|四月物語|April Story|1998|6|
+|2025-11-01|Matka Joanna od Aniołów|Matka Joanna od Aniołów|1960|7|
+|2025-11-08|A Bug's Life|Dawno temu w trawie|1998|8|
+|2025-11-15|964 Pinocchio|964 Pinokio|1991|3|
+|2025-11-15|The Convent|The Convent|2000|9|
+|2025-11-24|Bugonia|Bugonia|2025|7|
+|2025-12-31|Marty Supreme|Marty Supreme|2025|4|
+|2025-08-21|花とアリス|Hana and Alice|2004|8|
+|2026-01-14|Moriyama-san|Moriyama-san|2017|8|
+|2026-01-23|Foxfire|Wtajemniczenie|1996|7|
+|2026-01-26|Brother|Brother|2000|2|
+|2026-02-21|Scarecrow in a Garden of Cucumbers|Scarecrow in a Garden of Cucumbers|1972|3|
+|2026-04-08|어쩔수가없다|Bez wyjścia|2025|7|
+|2026-04-28|青い春|Blue Spring|2001|9|
+|2026-05-02|Affeksjonsverdi|Wartość sentymentalna|2025|8|
+|2026-06-28|Ghost Elephants|Sny o Słoniach|2025|8|
+|2026-07-10|攻殻機動隊|Ghost in the Shell|1995|9|
 |2026-07-28|風たちの午後|Afternoon Breezes|1980|5|
 |2026-08-02|普通サイズの怪人|Fantom Standardowego Rozmiaru|1986|7|
 |2026-08-25|Beverly Hills Chihuahua|Cziłała z Beverly Hills|2008|3|
