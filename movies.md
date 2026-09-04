@@ -1562,3 +1562,4 @@
 |2026-08-02|普通サイズの怪人|Fantom Standardowego Rozmiaru|1986|7|
 |2026-08-25|Beverly Hills Chihuahua|Cziłała z Beverly Hills|2008|3|
 |2026-09-03|フリック|Flic|2005|4|
+|2026-09-04|Tokyo Noise|Tokyo Noise|2002|8|
