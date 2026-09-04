@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+
+file="./movies.md"
+now=$(date +"%Y-%m-%d")
+
+function yes_or_no {
+  while true; do
+    read -p "$* [y/n]: " yn
+    case $yn in
+    [Yy]*) return 0 ;;
+    [Nn]*)
+      echo "Aborted - try again!"
+      return 1
+      ;;
+    esac
+  done
+}
+
+read -p 'Enter the original title: ' original_title
+read -p 'And the translated title: ' translated_title
+read -p 'And the year: ' year
+read -p 'And finally your rating: ' rating
+echo
+echo "| $now | $original_title | $translated_title | $year | $rating |"
+echo
+yes_or_no "Do you want to add:" && echo "|$now|$original_title|$translated_title|$year|$rating|" >>$file && echo "Film data saved!"
