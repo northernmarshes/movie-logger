@@ -1496,9 +1496,48 @@
 |2020-05-30|Sex and the City|Seks w wielkim mieście|2008|3|
 |2020-06-09|Another Woman|Inna kobieta|1988|3|
 |2020-06-09|Idi i smotri|Idź i patrz|1985|10|
-|2020-06-16|Duo luo tian shi|Upadłe anioły|1995|7|
+|2020-06-16|墮落天使|Upadłe Anioły|1995|8|
 |2020-06-16|Kona fer í stríð|Kobieta idzie na wojnę|2018|4|
 |2020-06-16|Shirley|Shirley|2020|3|
+|2020-07-06|Nie jesteś mną|Nie jesteś mną|1981|7|
+|2022-01-20|House of Gucci|Dom of Gucci|2021|4|
+|2022-04-07|Nitram|Nitram|2021|8|
+|2022-04-09|Стоп-Земля|Przystanek - Ziemia|2021|7|
+|2022-04-15|Shiva Baby|Shiva Baby|2020|3|
+|2022-04-20|Supernova|Supernova|2020|3|
+|2022-04-28|Brangelina:The Inside Story|Brangelina:The Inside Story|2021|4|
+|2022-05-01|The Electrical Life of Louis Wain|Szalony świat Louisa Waina|2021|2|
+|2022-05-03|重慶森林|Chungking Express|1994|9|
+|2022-05-11|Necktie|Necktie|2013|5|
+|2022-05-24|書を捨てよ町へ出よう|Rzućmy książki, wyjdźmy na ulice!|1971|7|
+|2022-06-19|Titane|Titane|2021|6|
+|2022-07-07|Émotion|Émotion|1966|8|
+|2022-07-17|Minari|Minari|2020|7|
+|2022-08-22|Fire of Love|Wulkan miłości|2022|7|
+|2022-09-21|煉獄エロイカ|Heroic Purgatory|1970|5|
+|2022-10-17|キュア|Kuracja|1997|7|
+|2022-10-20|カリスマ|Charisma|1999|8|
+|2022-11-30|Nope|Nie!|2022|3|
+|2022-12-26|ヤクザと家族|Yakuza i rodzina|2021|7|
+|2022-12-31|Kamikaze Hearts|Kamikaze Hearts|1986|4|
+|2023-01-06|Glass Onion: A Knives Out Mystery|Glass Onion: Film z serii "Na noże"|2022|5|
+|2023-01-09|The Menu|Menu|2022|6|
+|2023-01-24|Bones and All|Do ostatniej kości|2022|7|
+|2023-06-17|Памфір|Pamfir|2022|7|
+|2023-07-02|魔女の宅急便|Podniebna poczta Kiki|1989|8|
+|2023-07-04|攻殻機動隊|Ghost in the Shell|1995|9|
+|2023-07-25|Oppenheimer|Oppenheimer|2023|4|
+|2023-07-28|Reality|Reality|2023|9|
+|2023-07-29|千と千尋の神隠し|Spirited Away: W krainie Bogówy|2001|9|
+|2023-08-05|Barbie|Barbie|2023|3|
+|2023-08-06| 헤어질 결심|Podejrzana|2022|7|
+|2023-10-16|Fremont|Fremont|2023|6|
+|2024-11-29|她房间里的云|The Cloud in Her Room|2020|8|
+|2023-12-14|リリイ・シュシュのすべて|Wszystko o Lily Chou-Chou|2001|9|
+|2023-12-25|ナナ|Nana|2005|6|
+|2024-02-14|Volver|Volver|2006|6|
+|2024-04-03|Drive My Car|Drive My Car|2021|6|
+|2024-05-26|Love Lies Bleeding|Love Lies Bleeding|2024|6|
 |2025-08-08|Paris,Texas|Paryż, Teksas|1984|7|
 |2025-08-18|Alien: Romulus|Obcy: Romulus|2024|5|
 |2025-09-21|花とアリス|Hana and Alice|2004|8|
