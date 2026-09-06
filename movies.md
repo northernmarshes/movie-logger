@@ -1563,3 +1563,4 @@
 |2026-08-25|Beverly Hills Chihuahua|Cziłała z Beverly Hills|2008|3|
 |2026-09-03|フリック|Flic|2005|4|
 |2026-09-04|Tokyo Noise|Tokyo Noise|2002|8|
+|2026-09-06|Father Mother Sister Brother|Father Mother Sister Brother|2025|6|
