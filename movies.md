@@ -1538,6 +1538,8 @@
 |2024-02-14|Volver|Volver|2006|6|
 |2024-04-03|Drive My Car|Drive My Car|2021|6|
 |2024-05-26|Love Lies Bleeding|Love Lies Bleeding|2024|6|
+|2024-07-23|怪物|Monster|2023|7|
+|2025-02-12|GO|Go|2001|6|
 |2025-08-08|Paris,Texas|Paryż, Teksas|1984|7|
 |2025-08-18|Alien: Romulus|Obcy: Romulus|2024|5|
 |2025-09-21|花とアリス|Hana and Alice|2004|8|
