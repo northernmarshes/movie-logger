@@ -1568,3 +1568,4 @@
 |2026-09-05|Father Mother Sister Brother|Father Mother Sister Brother|2025|6|
 |2026-09-07|リング|The Ring - Krąg|1998|8|
 |2026-09-19|バレット・バレエ|Bullet Ballet|1998|8|
+|2026-10-15|The Lighthouse|Lighthouse|2019|9|
