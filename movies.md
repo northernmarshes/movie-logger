@@ -1569,3 +1569,4 @@
 |2026-09-07|リング|The Ring - Krąg|1998|8|
 |2026-09-19|バレット・バレエ|Bullet Ballet|1998|8|
 |2026-10-15|The Lighthouse|Lighthouse|2019|9|
+|2026-10-29|You Can See Everything|Zobaczysz wszystko|2026|8|
